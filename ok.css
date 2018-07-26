@@ -1,0 +1,43 @@
+h1 {
+  color: violet;
+  text-decoration: underline;
+  font-size: 55px;
+  font-style: oblique;
+  font-family:cursive;
+}
+h2 {
+  color:pink;
+  text-align: center;
+  font-size: 40px;
+}
+
+#num1{
+  color: BLUE;
+}
+
+#num2{
+  color: FUCHSIA;
+}
+
+#num3{
+  font-size: 20px;
+}
+
+#num4{
+  font-size: 20px;
+}
+#con{
+  background-image:url("oll.png");
+}
+
+#con{
+  background-color: transparent;
+  border-color: transparent;
+}
+
+
+#omg{
+background-color: transparent;
+border-color: transparent;
+font-size:32px 16px;
+}
